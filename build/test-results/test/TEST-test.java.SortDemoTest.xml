@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.SortDemoTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2018-10-22T06:08:00" hostname="LAPTOP-PTE05L6S" time="0.017">
+  <properties/>
+  <testcase name="insertionSortSortedArrayTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="quickSortDescendingArrayTest" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="NonIntegerValue" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="quickSortNullPointerExceptionTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="heapSortNullPointerExceptionTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="quickSortUnsortedArrayTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="negativeArraySize" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="insertionSortDescendingArrayTest" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="selectionSortUnsortedArrayTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="selectionSortNullPointerExceptionTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="mergeSortNullPointerExceptionTest" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="SameNumber" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="mergeSortSortedArrayTest" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="insertionSortUnsortedArrayTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="selectionSortSortedArrayTest" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="quickSortSortedArrayTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="NoNumber" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="heapSortDescendingArrayTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="NoSuchElem" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="mergeSortUnsortedArrayTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="heapSortUnsortedArrayTest" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="selectionSortDescendingArrayTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="testNumber" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="mergeSortDescendingArrayTest" classname="test.java.SortDemoTest" time="0.001"/>
+  <testcase name="heapSortSortedArrayTest" classname="test.java.SortDemoTest" time="0.0"/>
+  <testcase name="insertionSortNullPointerExceptionTest" classname="test.java.SortDemoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
